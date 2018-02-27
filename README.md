@@ -1,2 +1,2 @@
 # hello-world
-Git learning project.
+Git learning project. Trying out the gui.
